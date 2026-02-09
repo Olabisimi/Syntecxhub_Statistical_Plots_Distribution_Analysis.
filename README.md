@@ -31,3 +31,11 @@ statistical_analysis/
 │   └── kde_east_vs_west.png
 │   └── distribution_summary.txt
 └── README.md
+
+**Key Insights**
+
+Sales and Profit: Right-skewed distributions with noticeable outliers.
+Quantity & Discount: Mostly low values with occasional extremes.
+Age: Fairly symmetric, suitable for segmentation.
+Regions & Segments: Variability differs across groups; West region and Consumer segment show higher variability.
+Outliers: Identified in Sales (high values) and Profit (both high profits and some losses).
