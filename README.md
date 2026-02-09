@@ -4,6 +4,7 @@ This project explores distributions of sales, profit, quantity, and discounts fo
 ## Project Overview
 
 This project focuses on exploring the distribution and variability of key numerical variables within a retail sales dataset. Using statistical plots and descriptive analysis, the project investigates data spread, skewness, and outliers, as well as compares distributions across different customer and business groups. The analysis provides insights into sales performance, profitability, and customer behavior.
+
 **Repository Structure**
 statistical_analysis/
 │
