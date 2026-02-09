@@ -1,0 +1,4 @@
+
+The sales and profit distributions show right-skewed patterns with noticeable outliers. 
+Quantity and discounts are mostly low, while customer age is fairly symmetric. 
+Regional and segment-based comparisons reveal differences in variability and profitability, which will guide further analysis and visualization.
