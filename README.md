@@ -5,13 +5,10 @@ This project explores distributions of sales, profit, quantity, and discounts fo
 The dataset contains 9,999 transactions from 2021 to 2025, with variables including Sales, Profit, Quantity, Discount, Age, Region, Segment, and Ship_Mode.  
 
 This project includes:
-- Distribution analysis using *histograms, KDEs, and boxplots*
+- Distribution analysis using histograms, KDEs, and boxplots
 - Detection of *outliers*
-- Comparison across *Regions, Segments, and Shipping Modes*
-- Exporting plots and a *summary text file*  
-
----
-
+- Comparison across Regions, Segments, and Shipping Modes
+- Exporting plots and a summary text file
 ## Repository Structure
 statistical_analysis/
 │
